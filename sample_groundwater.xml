@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LandXML xmlns="http://www.landxml.org/schema/LandXML-1.2" version="1.2" date="2026-09-26">
+  <Units>
+    <Imperial linearUnit="foot" areaUnit="squareFoot" volumeUnit="cubicYard" temperatureUnit="fahrenheit" pressureUnit="inchHG"/>
+  </Units>
+  <Surfaces>
+    <Surface name="Piezometric_GW_Table">
+      <Definition surfType="TIN">
+        <Pnts>
+          <P id="1">1215000.0000 3114500.0000 4985.2000</P>
+          <P id="2">1215050.0000 3115200.0000 4983.8000</P>
+          <P id="3">1215800.0000 3114800.0000 4981.5000</P>
+          <P id="4">1215900.0000 3115500.0000 4980.1000</P>
+          <P id="5">1215400.0000 3115000.0000 4982.7000</P>
+        </Pnts>
+        <Faces>
+          <F>1 2 5</F>
+          <F>1 5 3</F>
+          <F>2 4 5</F>
+          <F>3 5 4</F>
+        </Faces>
+      </Definition>
+    </Surface>
+  </Surfaces>
+</LandXML>
