@@ -38,5 +38,5 @@ For municipal failure proofs, historical USGS corridor reconstructions, and Titl
 ## 📄 License
 This project is licensed under the MIT License.
 
-Developed & Maintained by **Peggy Foster**, Principal  
-Longmont, Colorado | info@terrahydrotechnologies.com
+ Developed & Maintained by **Peggy Foster**, Principal  
+Longmont, Colorado | peggy@ravensvue.com
