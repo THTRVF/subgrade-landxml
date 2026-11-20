@@ -1,9 +1,10 @@
 # Subgrade LandXML Bridge (`subgrade-landxml`)
 ### Lightweight Python Utility for Civil 3D & QGIS Geotechnical Surface Interoperability
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Format: LandXML 1.2](https://img.shields.io/badge/Format-LandXML_1.2-green.svg)](http://www.landxml.org)
-[![Engine: Terra Hydro Technologies](https://img.shields.io/badge/Enterprise-Terra_Hydro_Technologies-0A2540.svg)](https://terrahydrotechnologies.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-333333.svg)](https://opensource.org/licenses/MIT)
+[![Bridge: Open Geospatial](https://img.shields.io/badge/Bridge-Open_Geospatial-ea580c.svg)](https://github.com/THTRVF/subgrade-landxml)
+[![Format: LandXML 1.2](https://img.shields.io/badge/Format-LandXML_1.2-333333.svg)](http://www.landxml.org)
+[![Engine: Terra Hydro Technologies](https://img.shields.io/badge/Enterprise-Terra_Hydro_Technologies-ea580c.svg)](https://terrahydrotechnologies.com)
 
 `subgrade-landxml` is an open-source Python utility designed for civil infrastructure modelers, geotechnical engineers, and computational GIS specialists. It automates the extraction of static borehole groundwater elevations and serializes them into schema-compliant **LandXML 1.2 TIN Surfaces**, ready for direct, native import into **Autodesk Civil 3D** and **QGIS**.
 
@@ -38,5 +39,5 @@ For municipal failure proofs, historical USGS corridor reconstructions, and Titl
 ## 📄 License
 This project is licensed under the MIT License.
 
- Developed & Maintained by **Peggy Foster**, Principal  
-Longmont, Colorado | peggy@ravensvue.com
+Developed & Maintained by **[Peggy Foster](https://www.linkedin.com/in/peggyfoster-ravensvue/)**, Principal  
+Longmont, Colorado | [Verified LinkedIn](https://www.linkedin.com/in/peggyfoster-ravensvue/) | peggy@ravensvue.com
