@@ -7,7 +7,8 @@
 [![Engine: Terra Hydro Technologies](https://img.shields.io/badge/Enterprise-Terra_Hydro_Technologies-ea580c.svg)](https://terrahydrotechnologies.com)
 
 `subgrade-landxml` is an open-source Python utility designed for civil infrastructure modelers, geotechnical engineers, and computational GIS specialists. It automates the extraction of static borehole groundwater elevations and serializes them into schema-compliant **LandXML 1.2 TIN Surfaces**, ready for direct, native import into **Autodesk Civil 3D** and **QGIS**.
-
+### DIGGS & Open Standards Alignment
+`subgrade-landxml` is built to support geotechnical and geoenvironmental open data workflows. The utility bridges discrete borehole and piezometric observation arrays—including conventions aligned with the **ASCE Geo-Institute DIGGS (Data Interchange for Geotechnical and Geoenvironmental Specialists)** standard—directly into 3D LandXML 1.2 TIN surfaces and OGC GeoPackages for native Autodesk Civil 3D and QGIS consumption.
 ---
 
 ## ⚡ The Problem It Solves
