@@ -1,0 +1,21 @@
+[general]
+name=Subgrade LandXML Bridge
+qgisMinimumVersion=3.22
+qgisMaximumVersion=3.99
+description=Compile discrete borehole and piezometric water elevation points directly into 3D LandXML 1.2 TIN surfaces for Civil 3D and QGIS.
+about=Built by Terra Hydro Technologies. Ingests point layers (or DIGGS-aligned geotechnical observation arrays) and builds native 3D LandXML 1.2 TIN surfaces and OGC GeoPackages for seamless civil engineering CAD/BIM interoperability.
+version=1.0.0
+author=Peggy Foster (Terra Hydro Technologies)
+email=peggy@ravensvue.com
+
+# Repository & Institutional Links
+repository=https://github.com/THTRVF/subgrade-landxml
+tracker=https://github.com/THTRVF/subgrade-landxml/issues
+homepage=https://terrahydrotechnologies.com
+
+# Categorization for Search
+tags=landxml, geotechnical, groundwater, civil 3d, tin, cad, diggs, subsurface, piezometric
+category=Vector
+icon=icon.png
+experimental=False
+deprecated=False
